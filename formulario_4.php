@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html> lang="pt-br">
+<html> <lang="pt-br">
 <head>
 <meta charset="UTF-8">
 <title>Formulário de Contato</title>
@@ -35,4 +35,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 </body>
+
 </html>	
